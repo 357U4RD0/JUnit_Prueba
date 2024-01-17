@@ -19,6 +19,7 @@ public class Suma {
         int resultado = calculadora.sumar(num1, num2);
 
         System.out.println("La suma es: " + resultado);
+        System.out.println("Espero te haya encantado este gran proyecto =)");
 
         scanner.close();
     }
